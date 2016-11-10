@@ -528,7 +528,7 @@ end
 function cron_plugins()
 
   for name, plugin in pairs(plugins) do
-    -- Only plugins with cron function
+    -- Only plugin  with cron function
     if plugin.cron ~= nil then
       plugin.cron()
     end
