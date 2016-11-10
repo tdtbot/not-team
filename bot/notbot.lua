@@ -241,7 +241,7 @@ function create_config( )
     "lock_tag",
     "lock_reply",
     "rmsg",
-    "welcome",
+    "save",
     "serverinfo"
     },
     sudo_users = {266146155},--Sudo users
@@ -250,7 +250,7 @@ function create_config( )
 An advanced administration bot based on TG-CLI written in Lua
 
 Github:
-https://github.com/not-team/not
+https://github.com/mehmehran/not-team
 
 @sudo_shakh_telegram_ravale [Developer]
 
